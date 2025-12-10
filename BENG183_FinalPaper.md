@@ -1,5 +1,5 @@
 ---
-title: BENG 183 Final Paper
+BENG 183 Final Paper
 
 ---
 
